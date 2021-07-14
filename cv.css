@@ -1,0 +1,9 @@
+body{
+  background-color: #CDF0EA;
+  margin: 0;padding: 0;
+}
+hr{
+ height: 2px;
+ width: 100%;
+ background: white;
+}
